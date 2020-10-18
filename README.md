@@ -1,2 +1,2 @@
 # Calculator
-https://urfeen.github.io/Calculator/
+https://urfeen.github.io/Calculator/index
