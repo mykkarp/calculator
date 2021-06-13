@@ -13,7 +13,7 @@ The calculator supports such operations as:
 - Exponentiation;
 - Delete;
 - All clear;
-- Integer and floating point operations;
+- Integer and floating point operations.
 
 ____
 
