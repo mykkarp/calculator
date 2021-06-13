@@ -1,3 +1,13 @@
-# Calculator
+## Calculator
+
+🖥Deploy: https://urfeen.github.io/calculator/
+___
+
 A basic Calculator built with HTML5, CSS3, JS. 
-Try the [live demo](https://urfeen.github.io/Calculator/index "Calcucalor").
+
+____
+
+Screenshot:
+![image](https://user-images.githubusercontent.com/59795550/121805994-896fee80-cc56-11eb-99b8-9f082bbbddb4.png)
+
+
