@@ -3,7 +3,17 @@
 🖥Deploy: https://urfeen.github.io/calculator/
 ___
 
-A basic Calculator built with HTML5, CSS3, JS. 
+### 🛠Functionality
+The calculator supports such features as:
+- Addition;
+- Subtraction;
+- Multiplication;
+- Division;
+- Square root;
+- Exponentiation;
+- Delete;
+- All clear;
+- Integer and floating point operations;
 
 ____
 
