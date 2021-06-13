@@ -1,10 +1,10 @@
-## Calculator
+# Calculator
 
-🖥Deploy: https://urfeen.github.io/calculator/
+### 🖥Deploy: https://urfeen.github.io/calculator/
 ___
 
 ### 🛠Functionality
-The calculator supports such features as:
+The calculator supports such operations as:
 - Addition;
 - Subtraction;
 - Multiplication;
@@ -17,7 +17,8 @@ The calculator supports such features as:
 
 ____
 
-Screenshot:
+### 🖼Screenshot
+
 ![image](https://user-images.githubusercontent.com/59795550/121805994-896fee80-cc56-11eb-99b8-9f082bbbddb4.png)
 
 
