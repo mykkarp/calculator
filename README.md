@@ -1,6 +1,6 @@
 # Calculator
 
-### 🖥Deploy: https://urfeen.github.io/calculator/
+### 🖥Deploy: https://mykkarp.github.io/calculator/
 ___
 
 ### 🛠Functionality
